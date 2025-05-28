@@ -1,0 +1,2 @@
+/give @s mymod3:test_item
+/weather clear
